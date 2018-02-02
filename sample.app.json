@@ -1,5 +1,5 @@
 {
-  "name": "EquipmentTracker",
+  "name": "Weather",
   "schema_version": "1.0",
   "version": "0.0.0",
   "icon": "icon.png",
@@ -24,7 +24,7 @@
         "type" : "context_menu",
         "start_url": "http://localhost:3001",
         "location" : "field_productivity.crews.create.context_menu",
-        "action" : "javascript_do_something()", 
+        "action" : "javascript_do_something()",
         "tokens" : "",
         "label" : "Create Me..."
       }
