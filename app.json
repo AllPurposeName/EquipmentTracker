@@ -2,5 +2,5 @@
   "name": "Weather",
   "version": "0.1.0",
   "icon": "icon.png",
-  "start_url": "./index.js"
+  "start_url": "./main.js"
 }
